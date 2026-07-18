@@ -1,0 +1,27 @@
+[
+  {
+    "id": "5a2151fbd8",
+    "name": "Caribbean Music 🌴",
+    "description": "",
+    "song_ids": [],
+    "created_at": "2026-07-18T04:13:57.799998Z"
+  },
+  {
+    "id": "258e8e6734",
+    "name": "Gopsel Music ✝️",
+    "description": "",
+    "song_ids": [],
+    "created_at": "2026-07-18T04:14:30.786494Z"
+  },
+  {
+    "id": "b7e172c1c9",
+    "name": "Pop Music 🎉",
+    "description": "",
+    "song_ids": [
+      "s11",
+      "s04",
+      "s08"
+    ],
+    "created_at": "2026-07-18T04:19:31.466397Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {"id":"s01","title":"Neon Sunrise","artist":"Luna Harbor","genre":"Pop","mood":"Happy","energy":0.82,"tempo":124,"valence":0.88,"danceability":0.86,"acousticness":0.10,"audio_file":null},
+  {"id":"s02","title":"Midnight Motion","artist":"Velvet Circuit","genre":"Electronic","mood":"Energetic","energy":0.94,"tempo":132,"valence":0.70,"danceability":0.92,"acousticness":0.03,"audio_file":null},
+  {"id":"s03","title":"Coffee Shop Window","artist":"June & Pine","genre":"Indie","mood":"Calm","energy":0.36,"tempo":88,"valence":0.61,"danceability":0.42,"acousticness":0.78,"audio_file":null},
+  {"id":"s04","title":"Golden Hour Drive","artist":"The Daylights","genre":"Rock","mood":"Happy","energy":0.76,"tempo":118,"valence":0.83,"danceability":0.67,"acousticness":0.22,"audio_file":null},
+  {"id":"s05","title":"Quiet Constellations","artist":"Aster Vale","genre":"Ambient","mood":"Relaxed","energy":0.18,"tempo":68,"valence":0.48,"danceability":0.19,"acousticness":0.64,"audio_file":null},
+  {"id":"s06","title":"City Bloom","artist":"Maya North","genre":"R&B","mood":"Romantic","energy":0.58,"tempo":96,"valence":0.73,"danceability":0.76,"acousticness":0.25,"audio_file":null},
+  {"id":"s07","title":"Paper Planes","artist":"Harbor Street","genre":"Folk","mood":"Hopeful","energy":0.49,"tempo":104,"valence":0.78,"danceability":0.54,"acousticness":0.88,"audio_file":null},
+  {"id":"s08","title":"Full Send","artist":"Kinetic Youth","genre":"Hip-Hop","mood":"Energetic","energy":0.91,"tempo":142,"valence":0.68,"danceability":0.89,"acousticness":0.06,"audio_file":null},
+  {"id":"s09","title":"Blue November","artist":"Elena Moss","genre":"Jazz","mood":"Melancholy","energy":0.28,"tempo":76,"valence":0.24,"danceability":0.35,"acousticness":0.81,"audio_file":null},
+  {"id":"s10","title":"Afterglow","artist":"Satellite Hearts","genre":"Pop","mood":"Romantic","energy":0.65,"tempo":112,"valence":0.76,"danceability":0.74,"acousticness":0.18,"audio_file":null},
+  {"id":"s11","title":"Open Road Anthem","artist":"Westward Echo","genre":"Rock","mood":"Hopeful","energy":0.87,"tempo":128,"valence":0.81,"danceability":0.63,"acousticness":0.16,"audio_file":null},
+  {"id":"s12","title":"Deep Focus","artist":"Mono Garden","genre":"Lo-Fi","mood":"Focused","energy":0.32,"tempo":82,"valence":0.51,"danceability":0.47,"acousticness":0.56,"audio_file":null},
+  {"id":"s13","title":"Sundown Salsa","artist":"Sol Mercado","genre":"Latin","mood":"Happy","energy":0.89,"tempo":136,"valence":0.92,"danceability":0.95,"acousticness":0.21,"audio_file":null},
+  {"id":"s14","title":"Rain on Glass","artist":"Soft Static","genre":"Lo-Fi","mood":"Relaxed","energy":0.23,"tempo":72,"valence":0.44,"danceability":0.38,"acousticness":0.67,"audio_file":null},
+  {"id":"s15","title":"Wildflower Room","artist":"Cedar June","genre":"Folk","mood":"Calm","energy":0.41,"tempo":92,"valence":0.69,"danceability":0.45,"acousticness":0.91,"audio_file":null},
+  {"id":"s16","title":"Gravity Loop","artist":"Nova District","genre":"Electronic","mood":"Focused","energy":0.72,"tempo":120,"valence":0.57,"danceability":0.81,"acousticness":0.04,"audio_file":null}
+]

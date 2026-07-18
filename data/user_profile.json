@@ -1,0 +1,9 @@
+{
+  "name": "Music Explorer",
+  "favorite_genre": "Pop",
+  "favorite_mood": "Happy",
+  "target_energy": 0.75,
+  "preferred_tempo": 120,
+  "prefers_acoustic": false,
+  "prefers_danceable": true
+}
