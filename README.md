@@ -1,4 +1,4 @@
-# TuneIn
+# 🎧 TuneIn
 
 TuneIn is an offline desktop music discovery app built with Python, Tkinter, and Pydantic. It uses a transparent weighted scoring model to recommend tracks from a local catalog—no account, API key, or internet connection required.
 
